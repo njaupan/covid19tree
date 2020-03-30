@@ -11,14 +11,14 @@ _这个项目还在成长的初级阶段，大家感兴趣的，可以随时在�
 
 #### 小组成员(GitHub 用户名) 
 
- + [yangjl](https://github.com/yangjl)
- + [oushujun](https://github.com/oushujun)  
+ + [yangjl](https://github.com/yangjl) UCT-5  
+ + [oushujun](https://github.com/oushujun) UCT-5  
  + huangzhii  UCT-5 [cv](http://web.ics.purdue.edu/~huang898/)  
  + melop  Germany (GMT+2) [cv](http://fish.raycui.com/wp/cv/)
  + Cactusolo  UTC-4 [cv](https://www.sunmiao.name/)
  + hkchi  
  + njaupanpan UTC+2 [cv]( https://epidiverse.eu/en/epidiverse-people)  
- + [lipingfangs] (https://github.com/lipingfangs)
+ + [lipingfangs] (https://github.com/lipingfangs) GMT8
  
    
 _备注: 不断完善中_  
