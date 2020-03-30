@@ -1,23 +1,24 @@
 # COVID19TREE兴趣小组分工安排
 
-这个项目还在成长的初级阶段，大家感兴趣的，可以随时在微信或[Slack](covid19tree.slack.com)把自己名字添加进来，或者感兴趣的任务下面自己添加修。还有我们的[google doc](https://docs.google.com/document/d/1Dhl9Xhn0ZUGw0AjlmqP4ZY4RXkWQ_hJCZI_eeoni5QQ/edit)。  
+_这个项目还在成长的初级阶段，大家感兴趣的，可以随时在微信或[Slack](covid19tree.slack.com)把自己名字添加进来，或者感兴趣的任务下面自己添加修。还有我们的[google doc](https://docs.google.com/document/d/1Dhl9Xhn0ZUGw0AjlmqP4ZY4RXkWQ_hJCZI_eeoni5QQ/edit)。_      
 
-**近期将安排Zoom会议（_请备注您合适的[时间](http://whenisgood.net/)_）**  
+**近期将安排Zoom会议** （_请备注您合适的[时间](http://whenisgood.net/)_）  
 
 
 #### 研究兴趣目标
 
 **本着开放、开源、可重复的的数据分析精神，进行独立自主的数据分析，指出现有社区团体分析方法缺陷(如，[序列剔除](https://github.com/nextstrain/ncov/issues/279)、[置根](https://github.com/nextstrain/ncov/issues/278))和/或媒体不实报道，对中国或其他地区或国家有偏见，我们用数据为证据来反驳和澄清。**  
 
-#### 小组成员(github 用户名) 
+#### 小组成员(GitHub 用户名) 
 
- + oushujun 
+ + [yangjl](https://github.com/yangjl)
+ + [oushujun](https://github.com/oushujun)  
  + huangzhii  UCT-5 [cv](http://web.ics.purdue.edu/~huang898/)  
  + melop  Germany (GMT+2) [cv](http://fish.raycui.com/wp/cv/)
  + Cactusolo  UTC-4 [cv](https://www.sunmiao.name/)
  + hkchi  
  + njaupanpan UTC+2 [cv]( https://epidiverse.eu/en/epidiverse-people)  
- + lipingfangs https://github.com/lipingfangs
+ + [lipingfangs] (https://github.com/lipingfangs)
  
    
 _备注: 不断完善中_  
@@ -43,10 +44,10 @@ _备注: 不断完善中_
 + 系列比对  
   MAFFT  
 
-+ 进化模型分区（孙苗） 
++ 进化模型分区 (孙苗)    
   partitionfider  
   
-  GTRgamma/GTRCAT
+  GTRgamma/GTRCAT (recommended for >500 taxa)
   
 + 建树 （崔融丰、孙苗）
   - raxml 建树  
