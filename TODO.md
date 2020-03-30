@@ -1,6 +1,9 @@
 # COVID19TREE兴趣小组分工安排
 
-这个项目还在成长的初级阶段，大家感兴趣的，可以随时在微信或[Slack](covid19tree.slack.com)把自己名字添加进来，或者感兴趣的任务下面自己添加修。还有我们的[google doc](https://docs.google.com/document/d/1Dhl9Xhn0ZUGw0AjlmqP4ZY4RXkWQ_hJCZI_eeoni5QQ/edit)。
+这个项目还在成长的初级阶段，大家感兴趣的，可以随时在微信或[Slack](covid19tree.slack.com)把自己名字添加进来，或者感兴趣的任务下面自己添加修。还有我们的[google doc](https://docs.google.com/document/d/1Dhl9Xhn0ZUGw0AjlmqP4ZY4RXkWQ_hJCZI_eeoni5QQ/edit)。  
+
+**近期将安排Zoom会议（_请备注您合适的[时间](http://whenisgood.net/)_）**  
+
 
 #### 研究兴趣目标
 
@@ -14,6 +17,7 @@
  + Cactusolo  UTC-4 [cv](https://www.sunmiao.name/)
  + hkchi  
  + njaupanpan UTC+2 [cv]( https://epidiverse.eu/en/epidiverse-people)  
+ + lipingfangs https://github.com/lipingfangs
  
    
 _备注: 不断完善中_  
@@ -21,9 +25,9 @@ _备注: 不断完善中_
 ### 数据收集  
 
 + 前期数据  
-  方平—SCAU 20条 `all.fasta`  
-  王留阳—DukeU 1800k `gisaid_cov20200329_highcoverage_seq.fasta.gz`
-  张盼盼—CNRS 2293的基因组
+  方平—SCAU 250条 `all.fasta`  
+  王留阳—DukeU 1800k `gisaid_cov20200329_highcoverage_seq.fasta.gz`  
+  张盼盼—CNRS 2293的基因组  
   
 + [reference](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
   
