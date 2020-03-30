@@ -1,8 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 
-在系统发育关系（phylogeny）的重建过程中，以内类群（in-group）来置根（rooting），既不科学也不严谨。在事实并没有清楚认知的基础上，以武汉病例（Wuhan/IPBCAMS-WH-01/2019）作为估算病毒分化时间（dating）的起点，是极具误导性的。然而，[Nextstrain](https://nextstrain.org/ncov)依据此方法和人为排除一些数据的分析基础上做的新型冠状病毒传播情况报告，有违科学的原则。我们华人基因组学在线沙龙（CGM）的几位志愿者，愿意本着开放、开源、可重复的数据分析精神，进行独立自主的数据分析，以正视听。
-
+在系统发育关系（phylogeny）的重建过程中，以内类群（in-group）来置根（rooting），既不科学也不严谨。在事实并没有清楚认知的基础上，以武汉病例（Wuhan/IPBCAMS-WH-01/2019）作为估算病毒分化时间（dating）的起点，是极具误导性的。然而，[Nextstrain](https://nextstrain.org/ncov)依据[此方法](https://github.com/nextstrain/ncov/issues/278) 和[人为排除一些数据](https://github.com/nextstrain/ncov/issues/279) 的分析基础上做的新型冠状病毒传播情况报告，有违科学的原则。我们华人基因组学在线沙龙（CGM）的几位志愿者，愿意本着开放、开源、可重复的数据分析精神，进行独立自主的数据分析。我们将在多个外类群的基础上，进行系统发育关系的构建，并进行进化模型分区。然后构建Haplotype Network，并与进行旅游史进行关联分析。最终我们将数据可视化，并搭载网站予以呈现。在此过程中，我们广泛征集有相关技术背景，愿意贡献时间和精力的研究者，共同为抗击疫情做出我们应有的贡献！
 
 # Project Guideline
 
