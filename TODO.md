@@ -1,6 +1,6 @@
 # COVID19TREE兴趣小组分工安排
 
-这个项目还在成长的初级阶段，大家感兴趣的，可以随时[喵](cactusresponsible@gmail.com)把自己名字添加进来，或者感兴趣的任务下面自己添加修。还有我们的[google doc](https://docs.google.com/document/d/1Dhl9Xhn0ZUGw0AjlmqP4ZY4RXkWQ_hJCZI_eeoni5QQ/edit)。
+这个项目还在成长的初级阶段，大家感兴趣的，可以随时在微信或[Slack](covid19tree.slack.com)把自己名字添加进来，或者感兴趣的任务下面自己添加修。还有我们的[google doc](https://docs.google.com/document/d/1Dhl9Xhn0ZUGw0AjlmqP4ZY4RXkWQ_hJCZI_eeoni5QQ/edit)。
 
 #### 研究兴趣目标
 
@@ -15,16 +15,15 @@
  + hkchi  
  + njaupanpan UTC+2 [cv]( https://epidiverse.eu/en/epidiverse-people)  
  
- [Slack](covid19tree.slack.com)  
- 
+   
 _备注: 不断完善中_  
 
 ### 数据收集  
 
 + 前期数据  
-  方平SCAU 20条 `all.fasta`  
+  方平—SCAU 20条 `all.fasta`  
   王留阳—DukeU 1800k `gisaid_cov20200329_highcoverage_seq.fasta.gz`
-  张盼盼CNRS 2293的基因组
+  张盼盼—CNRS 2293的基因组
   
 + [reference](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
   
@@ -49,7 +48,7 @@ _备注: 不断完善中_
   - raxml 建树  
     用fasttree 产生一个start tree, 然后转给raxml  
     
-  - 基因组距离 ()  
+  - 基因组距离 (张盼盼)  
     popgen? 例如用Treemixgen
 + Haplotype Network  
 + 旅游史 (约翰斯基·仁波切)    
