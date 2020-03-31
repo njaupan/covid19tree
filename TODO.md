@@ -74,14 +74,14 @@ _备注: 不断完善中_
   系统发育树[展现]( https://github.com/oist/phylogeny-io)  
   在網頁界面上最好可以設定一個 cutoff 讓用戶選擇
   
-### 分化时间  
-  *Beast mcmctree phylobase 或 （崔融丰、孙苗）
-  treepl 
-  bootstrap alignment 100 获得置信区间
+### 分化时间 （崔融丰、黄恺驰、孙苗)    
+  *Beast mcmctree phylobase   
+  treepl  
+  bootstrap alignment 100 获得置信区间  
   
-  [Timetree](https://github.com/neherlab/treetime)
-  [treedater](https://github.com/emvolz/treedater)
-  Tip date 擬定一下感染後發病時間的概率分佈 
+  [Timetree](https://github.com/neherlab/treetime)  
+  [treedater](https://github.com/emvolz/treedater)  
+  Tip date 擬定一下感染後發病時間的概率分佈   
 
 
 ### 数据存储策略  
